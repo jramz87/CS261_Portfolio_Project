@@ -162,3 +162,6 @@ python tester_hash_map_oa.py
 Feel free to reach out if you have questions or would like to collaborate!                          
 [![Email](https://img.shields.io/badge/Email-jramz1897%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jramz1897@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jramz87.github.io-blue?style=for-the-badge&logo=github&logoColor=white)](https://jramz87.github.io/)
+
+## License
+This project is licensed under [![License: MIT](https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg)](/LICENSE)  - see the LICENSE file for details.
