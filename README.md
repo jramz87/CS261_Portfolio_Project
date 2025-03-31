@@ -1,4 +1,4 @@
-# HashMap Implementation - Data Structures Portfolio Project
+# HashMap Implementation
 
 A comprehensive implementation of HashMap data structures using two different collision resolution strategies: Separate Chaining and Open Addressing with Quadratic Probing. Developed as a portfolio project for CS261 (Data Structures) at Oregon State University, Winter 2025.
 
